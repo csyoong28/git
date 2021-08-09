@@ -8,3 +8,6 @@ git status
 #to add into staging area
 git add index.html
 git add git_command.txt
+
+#to commit, need to provide message
+Git commit -m "My first commit"
