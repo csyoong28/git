@@ -1,0 +1,10 @@
+cd C:\Users\soonyoong.chia\github\git
+#to initialize a repository
+git init
+
+#to check states
+git status
+
+#to add into staging area
+git add index.html
+git add git_command.txt
