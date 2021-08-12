@@ -11,3 +11,6 @@ git add git_command.txt
 
 #to commit, need to provide message
 Git commit -m "My first commit"
+
+#to commit, if want to put more text, will use default text editor like notepad++
+Git commit
